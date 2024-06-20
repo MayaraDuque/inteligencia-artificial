@@ -1,1 +1,1 @@
-# inteligencia-artificial
+# js-gerador-senha
